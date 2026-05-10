@@ -1,0 +1,7 @@
+PC1 -- FastEthernet0--Copper Straight-ThroughRouterGigabitEthernet 0/0
+Router-- GigabitEthernet -- 0/1Copper Straight-ThroughCloud-PTEthernet6
+
+PC1  - FastEthernet0  -  192.168.1.2255.255.255.0192.168.1.1
+Router--- GigabitEthernet0/0--- 192.168.1.1255.255.255.0
+Router---GigabitEthernet0/1---192.168.0.1255.255.255.0
+
