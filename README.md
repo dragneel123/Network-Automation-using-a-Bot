@@ -12,3 +12,4 @@ Step 3 — Cloud-PT DSL setup
 Troubleshooting section — reset PC, reset router, ROMMON fix
 CLI mode reference — all modes and how to exit
 
+<img width="975" height="494" alt="image" src="https://github.com/user-attachments/assets/e44fb08e-0382-40d9-96bc-36891ff4b605" />
