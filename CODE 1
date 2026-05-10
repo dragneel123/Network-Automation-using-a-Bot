@@ -14,3 +14,27 @@ Router(config-if)# exit
 (Configure WAN interface — connects to Cloud-PT)
 bashRouter(config)# exit
 Router# copy running-config
+
+
+
+PC1 IP Configuration
+
+Click PC1 in Packet Tracer
+Go to Desktop tab
+Click IP Configuration
+Select Static
+Enter the following:
+
+FieldValueIP Address192.168.1.2Subnet Mask255.255.255.0Default Gateway192.168.1.1DNS Server192.168.1.1
+
+
+
+
+ Cloud-PT Configuration
+
+Click Cloud-PT
+Go to Config tab
+Click DSL on the left panel
+Left dropdown → Modem4
+Right dropdown → Ethernet6
+Click Add
