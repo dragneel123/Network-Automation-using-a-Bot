@@ -1,0 +1,16 @@
+Router> enable
+(Enter privileged mode)
+bashRouter# configure terminal
+(Enter global configuration mode)
+bashRouter(config)# interface GigabitEthernet 0/0
+Router(config-if)# ip address 192.168.1.1 255.255.255.0
+Router(config-if)# no shutdown
+Router(config-if)# exit
+(Configure LAN interface — connects to PC1)
+bashRouter(config)# interface GigabitEthernet 0/1
+Router(config-if)# ip address 192.168.0.1 255.255.255.0
+Router(config-if)# no shutdown
+Router(config-if)# exit
+(Configure WAN interface — connects to Cloud-PT)
+bashRouter(config)# exit
+Router# copy running-config
