@@ -1,0 +1,15 @@
+PC1 (192.168.1.2)
+        |
+        | Copper Straight-Through
+        |
+   Router2 - 2911
+   Gi0/0: 192.168.1.1
+   Gi0/1: 10.0.0.1
+        |
+        | Copper Straight-Through
+        |
+   Switch-PT (Switch1)
+        |
+        | Copper Straight-Through
+        |
+   Cloud-PT (Cloud1) — ISP / Internet
