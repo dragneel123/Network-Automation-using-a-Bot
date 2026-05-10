@@ -11,5 +11,4 @@ Step 2 — PC1 IP configuration
 Step 3 — Cloud-PT DSL setup
 Troubleshooting section — reset PC, reset router, ROMMON fix
 CLI mode reference — all modes and how to exit
-Key commands table — full cheat sheet
-Concepts covered — great for recruiters/portfolio
+
